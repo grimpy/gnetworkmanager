@@ -1,0 +1,5 @@
+Python client/library for netwokmanager
+
+Includes wrappers for neworkmanager dbus interface
+
+GTK+ client for neworkmanager written in pygtk
